@@ -10,10 +10,10 @@
 每个商品在商店里只有一个，你的目标是买尽可能"多"的礼物。
 
 你需要写一个function，里面的第一个输入是你所有的钱 X， 第二个输入是商品的list：
-
-def function(x,list):
-    #你的程序
-    return 商品个数
+	
+	def function(x,list):
+		 #你的程序
+		 return 商品个数
     
 如果什么都买不到，return 0.
 
