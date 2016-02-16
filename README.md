@@ -11,11 +11,20 @@
 
 你需要写一个function，里面的第一个输入是你所有的钱 X， 第二个输入是商品的list：
 
+	Python:
 	#x=1 测试用
 	#list=[1,2,3] 测试用
 	def function(x,list):
 		 #你的程序
 		 return 商品个数
+    	
+    	C:
+    	int function(int x,int list[]){
+    	}
+    	
+    	Java:
+    	int method(int x,int[] array){
+    	}
     	
 如果什么都买不到，return 0.
 
